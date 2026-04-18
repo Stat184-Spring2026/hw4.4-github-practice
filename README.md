@@ -38,6 +38,12 @@ See `Plan_HW4.4.docx` for detailed planning notes.
 * `Plan_HW4.4.docx` → Planning document
 * `images/` → Visuals used in documentation
 
+## README UPDATE
+
+This update was made in a feature branch to demonstrate branching workflow.
+
 ## Author
 
 Created by Evan Gill.
+
+
