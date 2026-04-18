@@ -35,7 +35,7 @@ See 'Plan_HW4.4.docx' for detailed planning notes.
 -   'HW4.3.qmd' → Source Quarto file
 -   'HW4.3.pdf' → Final report
 -   'README.md' → Project overview
--   'Plan_HW4.4.docx' → Planning document
+-   'Plan_HW4.4.md' → Planning document
 -   'images/' → Visuals used in documentation
 
 ## README UPDATE
